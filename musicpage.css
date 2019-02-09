@@ -1,0 +1,60 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.intro{
+  top:;
+  border-style: ridge;
+  border-color: white;
+  background: #b6fcd5;
+  min-height: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.intro h1{
+  color:;
+}
+nav ul {
+  text-align: right;
+  position: fixed;
+  width: 100%;
+  background-color:;
+}
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+nav ul li a{
+  color: #008080;
+  text-decoration: none;
+}
+nav ul li a:hover{
+  color: #6897bb;
+}
+.projects{
+  padding-top: 20px;
+  margin-top: 0px;
+}
+.projects .projects-header{
+  margin-top: 0px;
+}
+.project-pic {
+  margin-top: 20px;
+  border-style: ridge;
+  border-color: #f0faf1;
+}
+.header{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contact-details {
+  padding: 5px;
+}
